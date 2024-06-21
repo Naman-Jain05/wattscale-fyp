@@ -1,5 +1,5 @@
-# wattscale-fyp
-Building Energy Efficiency Analysis Using Advanced Statistical Methods
+
+# Building Energy Efficiency Analysis Using Advanced Statistical Methods
 
 This project aims to enhance building energy efficiency through advanced statistical analysis and thermodynamic principles. It employs a systematic approach to model and optimize energy consumption in residential buildings, ensuring accuracy and reliability in energy efficiency assessments.
 
